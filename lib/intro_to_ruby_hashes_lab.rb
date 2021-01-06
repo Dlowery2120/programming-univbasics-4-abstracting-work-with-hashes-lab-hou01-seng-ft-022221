@@ -7,7 +7,7 @@ hash[key]
   
 end
 
-def update_counting_hash(hash, key)
+
 def update_counting_hash(hash, key)
   if hash[key]
     hash[key] = hash[key] + 1  # Alternatively: hash[key] += 1
@@ -15,4 +15,4 @@ def update_counting_hash(hash, key)
  
   end
 end
-end
+

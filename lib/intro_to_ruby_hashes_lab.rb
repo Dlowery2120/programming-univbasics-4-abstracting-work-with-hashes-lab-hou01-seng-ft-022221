@@ -3,7 +3,7 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(hash, key)
-hash_to_read = {location: 'New York City', occupation: 'Student'}
+hash = {key => "New York City"}
   
 end
 
